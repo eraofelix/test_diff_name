@@ -1,0 +1,3 @@
+[submodule "src/test_submd"]
+	path = src/test_submd
+	url = https://github.com/eraofelix/test_submd.git
